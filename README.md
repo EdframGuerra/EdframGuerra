@@ -17,4 +17,5 @@
 
 #### Por mais longa que seja a caminhada o mais importante é dar o primeiro passo. - Vinícius de Moraes
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdframGuerra&layout=compact)](https://github.com/EdframGuerra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdframGuerra&theme=dracula&layout=compact)](https://github.com/EdframGuerra/github-readme-stats)
+
