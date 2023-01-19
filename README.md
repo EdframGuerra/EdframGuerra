@@ -4,8 +4,6 @@
 
 ### Para me encontrar:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edframguerra/)
-[![gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox)
-
 
 
 ### Hard Skills 💻
@@ -18,4 +16,3 @@
 #### Por mais longa que seja a caminhada o mais importante é dar o primeiro passo. - Vinícius de Moraes
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdframGuerra&theme=dracula&layout=compact)](https://github.com/EdframGuerra/github-readme-stats)
-
