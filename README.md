@@ -29,6 +29,5 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/EdframGuerra/EdframGuerra/blob/output/github-contribution-grid-snake.svg)
   
 </div>
