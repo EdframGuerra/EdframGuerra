@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff00&height=120&section=header"/>
 <div>
     <h1 align="center">Hello World, eu sou o Edfram Guerra😃️</h1>
   <p align="center">👏🏾👏🏾Desenvolvedor Back-end, sejam muito bem vindos 👏🏾👏🏾!!!!
@@ -26,3 +27,11 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdframGuerra&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/EdframGuerra/EdframGuerra/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff00&height=120&section=footer"/>
