@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff00&height=120&section=header"/>
 <div>
     <h1 align="center">Hello World, eu sou o Edfram Guerra😃️</h1>
-  <p align="center">👏🏾👏🏾Desenvolvedor Back-end, sejam muito bem vindos 👏🏾👏🏾!!!!
+  <p align="center">👏🏾👏🏾Desenvolvedor Back-end (Java / JavaSrcipt), sejam muito bem vindos 👏🏾👏🏾!!!!
 </p>
  </div>
 </div><br>
