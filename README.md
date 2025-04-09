@@ -22,7 +22,12 @@
 
 ### Estudando no momento 💻<br>
 
- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+ ![Frontend](https://img.shields.io/badge/Frontend-%2300BFFF.svg?style=for-the-badge&logo=web&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+
+
 
 
 
