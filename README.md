@@ -41,19 +41,9 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EdframGuerra&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdframGuerra&theme=dracula&&layout=compact"/>
   </a>
-
-  
 </div>
 
 <div align="center">
-
-    ### 🐍 Snake com minhas contribuições
-
-![github contribution snake](https://github.com/EdframGuerra/EdframGuerra/blob/output/github-contribution-grid-snake.svg)
-
-    
- 
-  
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff00&height=120&section=footer"/>
