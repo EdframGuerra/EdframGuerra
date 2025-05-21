@@ -47,7 +47,10 @@
 
 <div align="center">
 
-    
+    ### 🐍 Snake com minhas contribuições
+
+![github contribution snake](https://github.com/EdframGuerra/EdframGuerra/blob/output/github-contribution-grid-snake.svg)
+
     
  
   
